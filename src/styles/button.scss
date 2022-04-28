@@ -2,7 +2,7 @@
   height: 50px;
   border-radius: 8px;
   font-weight: 500;
-  background-color: #835afd;
+  background-color: #0dccff;
   color: #fff;
   padding: 0 32px;
 
@@ -14,6 +14,16 @@
   border: 0;
 
   transition: filter 0.2s;
+
+  img {
+    margin-right: 8px;
+  }
+
+  &.outlined {
+    background: #ffffff;
+    border: 1px solid #0dccff;
+    color: #0dccff;
+  }
 
   &:not(:disabled):hover {
     filter: brightness(0.9);

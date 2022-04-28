@@ -6,7 +6,7 @@
   aside {
     flex: 7;
 
-    background: #835afd;
+    background: #0dccff;
     color: #fff;
 
     display: flex;
@@ -86,7 +86,7 @@
       margin-top: 16px;
 
       a {
-        color: #e559f9;
+        color: #4760ff;
       }
     }
   }
@@ -96,7 +96,7 @@
     height: 50px;
     border-radius: 8px;
     font-weight: 500;
-    background: #ea4335;
+    background: #ff266c;
     color: #fff;
 
     display: flex;
@@ -139,6 +139,14 @@
       height: 1px;
       background: #a8a8b3;
       margin-left: 16px;
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  #page-auth {
+    aside {
+      display: none;
     }
   }
 }

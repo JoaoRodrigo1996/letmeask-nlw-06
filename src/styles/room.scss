@@ -13,6 +13,15 @@
       > img {
         max-height: 45px;
       }
+
+      > div {
+        display: flex;
+        gap: 16px;
+
+        button {
+          height: 40px;
+        }
+      }
     }
   }
 
@@ -33,7 +42,7 @@
 
       span {
         margin-left: 16px;
-        background: #e559f9;
+        background: #4760ff;
         border-radius: 16px;
         padding: 8px 16px;
         color: #ffffff;
@@ -86,7 +95,7 @@
           button {
             background: transparent;
             border: 0;
-            color: #835afd;
+            color: #0dccff;
             text-decoration: underline;
             font-size: 14px;
             font-weight: 500;
@@ -95,5 +104,74 @@
         }
       }
     }
+
+    .question-list {
+      margin-top: 32px;
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  #page-room {
+    .content {
+      flex-direction: column;
+      height: 180px;
+
+      > div {
+        flex-direction: column;
+        margin-top: 12px;
+        gap: 8px;
+      }
+    }
+
+    main {
+      padding: 0 24px;
+
+      .room-title {
+        h1 {
+          font-size: 20px;
+        }
+        span {
+          font-size: 12px;
+        }
+      }
+
+      form {
+        .form-footer {
+          .user-info {
+            img {
+              width: 38px;
+              height: 38px;
+            }
+            span {
+              font-size: 14px;
+            }
+          }
+        }
+      }
+    }
+
+    .question-list {
+      margin-bottom: 32px;
+    }
+  }
+}
+
+@media (max-width: 810px) {
+  main {
+    .room-title {
+      padding: 0 24px;
+    }
+  }
+
+  main {
+    form {
+      padding: 0 24px;
+    }
+  }
+
+  .question-list {
+    width: 100%;
+    padding: 0 24px;
   }
 }
