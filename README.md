@@ -1,6 +1,6 @@
-![logo](https://user-images.githubusercontent.com/71795996/165763584-9dc7d090-b01f-474b-83ca-525790a0a0f7.svg)
+
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  ![logo](https://user-images.githubusercontent.com/71795996/165763584-9dc7d090-b01f-474b-83ca-525790a0a0f7.svg)
 </p>
 
 ## 🧪 Tecnologias
