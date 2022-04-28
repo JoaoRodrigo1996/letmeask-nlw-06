@@ -1,8 +1,6 @@
 
-<p align="center">
-  ![logo](https://user-images.githubusercontent.com/71795996/165763753-c38bfcb9-61d6-4fe4-b46a-48e6d621de17.svg)
-5763584-9dc7d090-b01f-474b-83ca-525790a0a0f7.svg)
-</p>
+![logo](https://user-images.githubusercontent.com/71795996/165763962-ab9886d9-1175-4201-8cb3-9ff94dc3b0bf.svg)
+
 
 ## 🧪 Tecnologias
 
