@@ -1,6 +1,10 @@
+<p align="center">
+  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+</p>
+
 ## 🧪 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+tecnologias usadas para o desenvolvimento do projeto:
 
 - [React](https://reactjs.org)
 - [Sass](https://sass-lang.com)
@@ -12,8 +16,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/JoaoRodrigo1996/letmeask-nlw-06
+
+$ cd letmeask-nlw-06
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -32,7 +37,7 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 
 ## 💻 Projeto
 
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
+Letmeask é um projeto com onde pessoas podem criar suas salas de perguntas e respostas, de uma forma muito organizada e democrática.
 
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
 
@@ -43,11 +48,3 @@ Você pode visualizar o layout do projeto através do link abaixo:
 - [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask)
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
-
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
